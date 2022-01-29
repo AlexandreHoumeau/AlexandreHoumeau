@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AlexandreHoumeau
-- 👀 I’m interested in mobile development
+- 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning Swift for IOS development
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alexandrehoumeau/)
